@@ -24,4 +24,7 @@ if (a < 0 && c != 0)
 			f = -a / x - c;
 		else
 			f = x / c;
+	printf("результат f= %d", f);
+	return 0;
+}
 
